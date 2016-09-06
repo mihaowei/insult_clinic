@@ -11,4 +11,6 @@ Gem::Specification.new do |s|
   s.homepage    =
     'https://github.com/mihaowei/insult_clinic'
   s.license       = 'MIT'
+  s.add_development_dependency "bundler", "~> 1.12"
+  s.add_development_dependency "rspec", "~> 3.4"
 end
