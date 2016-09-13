@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
   s.files       = ["lib/insult_clinic.rb"]
   s.executables << 'insult_clinic'
   s.homepage    =
-    'https://github.com/mihaowei/insult_clinic'
+    'https://github.com/noahmilstein/insult_clinic'
   s.license       = 'MIT'
   s.add_development_dependency "bundler", "~> 1.12"
   s.add_development_dependency "rspec", "~> 3.4"
